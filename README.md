@@ -1,4 +1,4 @@
-# Simple grade managment for University
+# Simple grade management for University
 
 This is a simple project to manage grades for university students. It
 
